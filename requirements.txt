@@ -1,0 +1,2 @@
+pyttsx3==2.90
+python-telegram-bot==13.2
